@@ -27,4 +27,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
+# HELLO
+## This is a test section
+### With a subsection
+
 
